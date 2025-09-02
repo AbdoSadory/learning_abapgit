@@ -16,6 +16,6 @@ CLASS ZHELLO_TO_ABAPGIT IMPLEMENTATION.
 
 
   METHOD IF_OO_ADT_CLASSRUN~MAIN.
-    out->write( 'Hello World' ).
+    out->write( 'Hello World !' ).
   ENDMETHOD.
 ENDCLASS.
